@@ -6,6 +6,7 @@
 
 ## Правила гри
 Всі MD5 хеші мають однакову сіль "NNC_hashhash" md5($pass.$salt)
+Всі чати були зашифровані онлайн тут - https://aesencryption.net   AES-256 IV '1234567890123456'
 Знайдені в чатах хеші-купони можна обміняти на бали тут https://nonamecon.org/my-account/woo-wallet/redeem/
 Обговорення та підказки: https://t.me/NoNameConGroup
 
